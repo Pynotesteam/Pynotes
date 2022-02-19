@@ -10,7 +10,8 @@ What OS are you on?
 Download the .exe installer and run the installer following the instructions provided.
 
 ## Linux
-COMING SOON
+#### Most Linux Distros
+Make sure you have [Python](https://www.python.org/downloads/) installed on your machine, download the source code .zip and unzip. Then simply run the pynotes.py file.
 
 ## MacOS
-COMING SOON
+Make sure you have [Python](https://www.python.org/downloads/) installed on your machine, download the source code .zip and unzip. Then simply run the pynotes.py file.
