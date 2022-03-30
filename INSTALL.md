@@ -6,7 +6,7 @@ What OS are you on?
   - MacOS
 
 ## Windows
-####Windows 7
+#### Windows 7
 Unfortunately there is no Windows 7 version of the app due to a missing dll on Win7.
 #### Windows 10 or above
 Download the .exe installer and run the installer following the instructions provided.
